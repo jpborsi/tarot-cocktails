@@ -165,18 +165,19 @@ X-Factor: glitter
 
 
 ## XI: Justice
-* The figure on the card holds a scale made of gold in their left hand, symbolizing a balanced decision.
+* Having glimpsed the wheel of fortune, it is time to take responsibility for our past actions so we can make amends and ensure a more honest course for the future.
 * Equity, rightness, probity; triumph of the deserving side
-> We are fighting for an unapologetic movement for economic, social, and racial justice in the United States.
+> "We are fighting for an unapologetic movement for economic, social, and racial justice in the United States." - Alexandria Ocasio-Cortez
 
+**Justice & Equali-tea**: [Source](https://imbibemagazine.com/recipe/grand-dukes-nectar-becketts-kopf-berlin/)
+* 1½ OZ. COGNAC
+* ¾ OZ. AGED RUM
+* ⅓ OZ. BREWED BLACK TEA
+* 1 TSP. FRESH LEMON JUICE
+* 1 TSP. GÉNÉPY (OR SUBSTITUTE CHARTREUSE)
+* CHILLED CHAMPAGNE
 
-
-
-
-
-
-
-
+X-Factor = tea cocktail!
 
 
 ## 12: The Hanged Man
