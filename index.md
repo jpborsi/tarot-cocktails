@@ -139,10 +139,22 @@ X-Factor = bold orange color
 * Prudence, circumspection, solitude
 > "If you are lonely when you're alone, you are in bad company." - Jean-Paul Sartre
 
-**Cocktail**
-* Ingredient
+**Alpine Negroni**: [Source](https://punchdrink.com/recipes/alpine-negroni/)
+* 1 oz gin
+* 3/4 ounce Suze
+* 3/4 ounce Cocchi Americano
+* 1/2 ounce génépy
+* 1 barspoon white crème de menthe, preferably Tempus Fugit
+* 3 dashes lemon bitters
+* 1 dash saline solution(1:1, salt:water)
 
-X-Factor
+X-Factor: Taking a white negroni up a notch
+
+## X: The Wheel of Fortune
+* Element of change
+* Destiny, fortune, success, elevation, luck, felicity
+* ???
+
 
 ## 8: Justice
 * The figure on the card holds a scale made of gold in their left hand, symbolizing a balanced decision.
@@ -153,10 +165,7 @@ X-Factor
 
 
 
-## 10: The Wheel of Fortune
-* Element of change
-* Destiny, fortune, success, elevation, luck, felicity
-* ???
+
 
 
 
