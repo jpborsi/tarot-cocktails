@@ -148,18 +148,26 @@ X-Factor = bold orange color
 * 3 dashes lemon bitters
 * 1 dash saline solution(1:1, salt:water)
 
-X-Factor: Taking a white negroni up a notch
+X-Factor = Taking a white negroni up a notch
 
 ## X: The Wheel of Fortune
-* Element of change
+* As an answer to our seeking, we are rewarded with a brief vision of the world's wondrous design - the Wheel of Fortune is a symbol of the mysterious universe whose parts work together in harmony.
 * Destiny, fortune, success, elevation, luck, felicity
-* ???
+> "From Hollywood, it's the Wheeeeeeeeeeeeel of Fortune! America's most popular game show!" - Pat Sajak
+
+**The (Vanna) White Lady**: [Source](https://www.liquor.com/recipes/white-lady/)
+* 2 ounces gin
+* 1/2 ounce orange liqueur or triple sec
+* 1/2 ounce lemon juice, freshly squeezed
+* 1 egg white
+
+X-Factor: glitter
 
 
-## 8: Justice
+## XI: Justice
 * The figure on the card holds a scale made of gold in their left hand, symbolizing a balanced decision.
-* Equity, rightness, probity, executive; triumph of the deserving side in law
-* ???
+* Equity, rightness, probity; triumph of the deserving side
+> We are fighting for an unapologetic movement for economic, social, and racial justice in the United States.
 
 
 
