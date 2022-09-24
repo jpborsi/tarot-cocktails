@@ -181,7 +181,7 @@ X-Factor = tea cocktail!
 
 
 ## XII: The Hanged Man
-* Taking responsibility for oneself is not always enough to make the world better, sometimes self-sacrifice is necessary. The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge
+* Taking responsibility for oneself is not always enough to make the world better, sometimes self-sacrifice is necessary. The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge.
 * Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.
 > "I think that the good and the great are only separated by the willingness to sacrifice." - Kareem Abdul-Jabbar
 
@@ -195,10 +195,19 @@ X-Factor = tea cocktail!
 X-Factor = ??
 
 
-## 13: Death (The Card with No Name)
-* the Grim Reaper is riding a pale horse, and often he is wielding a sickle or scythe
+## XIII: Death
+* At times, inexorable change seems to be crushing us, but eventually we rise up to discover that death need not refer to physical death. It is simply a transition to a new, more fulfilling way of life.
 * End, mortality, destruction, corruption
-* ???
+> “Life is a great sunrise. I do not see why death should not be an even greater one.” — Vladimir Nobokov
+
+**Spicy Tequila Sunrise**: [Source](https://punchdrink.com/recipes/mezcal-sun-risa/)
+* 3/4 ounce tequila, preferably Cabeza
+* 3/4 ounce mezcal, preferably Montelobos
+* 4 ounces orange juice
+* 2 ounces bitter orange juice
+* 3/4 ounce hibiscus-habanero syrup (see Editor's Note)
+
+X-Factor = spicy!
 
 
 ## 14: Temperance
