@@ -180,10 +180,19 @@ X-Factor: glitter
 X-Factor = tea cocktail!
 
 
-## 12: The Hanged Man
-* The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge
+## XII: The Hanged Man
+* Taking responsibility for oneself is not always enough to make the world better, sometimes self-sacrifice is necessary. The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge
 * Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.
-* oak(?) tree
+> "I think that the good and the great are only separated by the willingness to sacrifice." - Kareem Abdul-Jabbar
+
+**Rum Flip**: [Source](https://www.liquor.com/rum-flip-cocktail-recipe-5213043)
+* 1 1/2 ounces dark rum (such as Cruzan single barrel estate)
+* 1/2 ounce heavy cream
+* 1 teaspoon granulated sugar
+* 1 fresh egg (whole)
+* Garnish: grated nutmeg
+
+X-Factor = ??
 
 
 ## 13: Death (The Card with No Name)
