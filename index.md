@@ -210,11 +210,15 @@ X-Factor = ??
 X-Factor = spicy!
 
 
-## 14: Temperance
-* ???
+## XIV: Temperance
+* So far on our journey, we've swung wildly back and forth on an emotional pendulum. Now, we must realize the balancing stability of temperance.
 * Economy, moderation, frugality, management, accommodation
-* pouring liquid from one receptacle into another
+> "If one oversteps the bounds of moderation, the greatest pleasures cease to please." - Epictetus
 
+**Cocktail**: [Source]()
+* Ingredient
+
+X-Factor = ??
 
 ## 15: The Devil
 * The Devil represents the Fool's involvement in materialism and complacency
@@ -246,17 +250,28 @@ X-Factor = spicy!
 * sunflower
 
 
-## 20: Judgement
+## XX: Judgement
 * The Sleeping Dead are emerging from crypts or graves, calling back to the Book of Revelation chapter 20, where the sea gives up its dead.
 * judgement, rebirth
-* ???
+> "Don't wait for the last judgment - it takes place every day." - Albert Camus
 
+**Corpse Reviver No. 2**: [Source](https://www.liquor.com/recipes/corpse-reviver-no-2/)
+* Absinthe, to rinse
+* 3/4 ounce London dry gin
+* 3/4 ounce Lillet blanc
+* 3/4 ounce orange liqueur
+* 3/4 ounce lemon juice, freshly squeezed
 
 ## 21: The World
 * The World represents an ending to a cycle of life, a pause in life before the next big cycle beginning with the fool.
 * Assured success, recompense, voyage, route, emigration, flight, change of place
-* ???
+> "The end of all our exploring will be to arrive where we started." - TS Eliot
 
-~The Last Word~
+**The Last Word**: [Source](https://www.liquor.com/recipes/the-last-word/)
+* 3/4 ounce gin
+* 3/4 ounce green Chartreuse
+* 3/4 ounce maraschino liqueur
+* 3/4 ounce lime juice, freshly squeezed
+* Garnish: brandied cherry (optional)
 
 
