@@ -17,6 +17,8 @@ Stir & strain into short glass on the rocks
 
 X-Factor = add cream/milk, dust with nutmeg
 
+---
+
 ## I: The Magus
 * Upon coming to our senses, we immediately encounter two figures. The first is the Magician, who deals with the active power of our conscious awareness.
 * The Creative Impulse: TKTK
@@ -31,6 +33,8 @@ X-Factor = add cream/milk, dust with nutmeg
 * Garnish: lemon twist
 
 X-Factor = color changing B'lure
+
+---
 
 ## II: The High Priestess
 * The second figure is the High Priestess who represents our mysterious, unconscious mind. She is our unrealized potential waiting to be expressed.
@@ -47,6 +51,7 @@ X-Factor = color changing B'lure
 
 X-Factor = Fresh Basil
 
+---
 
 ## III: The Empress
 * Now that we are aware of our surroundings, we first recognize our mother, the Empress. She represents mother earth who nutures and supports us.
@@ -64,6 +69,8 @@ X-Factor = Fresh Basil
 
 X-Factor = Beer Cocktail!
 
+---
+
 ## IV: The Emperor
 * Standing behind our mother is our father, the Emperor. He stands for structure and authority.
 * Stability, power, protection, logic, realization
@@ -75,6 +82,8 @@ X-Factor = Beer Cocktail!
 * chocolate bitters
 * bar spoon of simple syrup
 * garnish: cherry
+
+---
 
 
 ## V: The High Priest
@@ -89,6 +98,7 @@ X-Factor = Beer Cocktail!
 * 2 or 3 dashes Angostura bitters
 * Club soda
 
+---
 
 ## VI: The Lovers
 * Relationships and choices / Adam and Eve
@@ -103,20 +113,22 @@ X-Factor = Beer Cocktail!
 * 1/4 oz lemon juice
 * Garnish lemon twist
 
+---
 
 ## VII: The Chariot
 * After completing our education and experiencing first love, we feel in complete control of our fate. We are the assertive, self-confident charioteer.
 * Triumph, presumption, discipline, will power, ego.
 > All you need in this life is ignorance and confidence, and then success is sure. - Mark Twain
 
-**Black and White**:
-[Source](https://limoncellokitchen.com/black-and-white-rum-cocktail/)
+**Black and White**: [Source](https://limoncellokitchen.com/black-and-white-rum-cocktail/)
 * 1 bar spoon black cocoa powder
 * ¾ ounce dark rum
 * 1¼ ounce simple syrup
 * 1 ounce white rum
 * ½ ounce coconut rum
 * 1 ounce heavy cream
+
+---
 
 ## VIII: Strength
 * When faced with new challenges, we draw on the quality of Strength. We must develop our courage and resolve to keep going despite setbacks.
@@ -130,6 +142,7 @@ X-Factor = Beer Cocktail!
 * 0.5 oz simple syrup
 * 4 dashes aromatic bitters (Angostura works well)
 
+---
 
 ## IX: The Hermit
 * All of our success is worthless without an answer to the simple question, "Why?" We become absorbed with the search for answers and meet the Hermit, who represents the need to find deeper truth.
@@ -145,6 +158,7 @@ X-Factor = Beer Cocktail!
 * 3 dashes lemon bitters
 * 1 dash saline solution(1:1, salt:water)
 
+---
 
 ## X: The Wheel of Fortune
 * As an answer to our seeking, we are rewarded with a brief vision of the world's wondrous design - the Wheel of Fortune is a symbol of the mysterious universe whose parts work together in harmony.
@@ -159,6 +173,7 @@ X-Factor = Beer Cocktail!
 
 X-Factor: glitter
 
+---
 
 ## XI: Justice
 * Having glimpsed the wheel of fortune, it is time to take responsibility for our past actions so we can make amends and ensure a more honest course for the future.
@@ -173,6 +188,8 @@ X-Factor: glitter
 * 1 TSP. GÉNÉPY (OR SUBSTITUTE CHARTREUSE)
 * CHILLED CHAMPAGNE
 
+---
+
 
 ## XII: The Hanged Man
 * Taking responsibility for oneself is not always enough to make the world better, sometimes self-sacrifice is necessary. The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge.
@@ -180,11 +197,13 @@ X-Factor: glitter
 > "I think that the good and the great are only separated by the willingness to sacrifice." - Kareem Abdul-Jabbar
 
 **Rum Flip**: [Source](https://www.liquor.com/rum-flip-cocktail-recipe-5213043)
-* 1 1/2 ounces dark rum (such as Cruzan single barrel estate)
+* 1 1/2 ounces dark rum
 * 1/2 ounce heavy cream
 * 1 teaspoon granulated sugar
 * 1 fresh egg (whole)
 * Garnish: grated nutmeg
+
+---
 
 
 ## XIII: Death
@@ -197,6 +216,8 @@ X-Factor: glitter
 * 4 1/2 ounces chilled Champagne
 * simple syrup (optional)
 
+---
+
 ## XIV: Temperance
 * So far on our journey, we've swung wildly back and forth on an emotional pendulum. Now, we must realize the balancing stability of temperance.
 * Economy, moderation, frugality, management, accommodation
@@ -207,6 +228,8 @@ X-Factor: glitter
 * 15 oz apple juice
 * 2.25 oz ginger syrup (1:1 ration ginger juice/sugar)
 * .75 oz lime juice
+
+---
 
 
 ## 15: The Devil
@@ -221,6 +244,8 @@ X-Factor: glitter
 * 3 ounces ginger beer
 * Garnish: lime wedge
 
+---
+
 
 ## 16: The Tower
 * How can we escape the Devil? Only by breaking out of the tower: the ego fortress each of us has built around our inner self.
@@ -229,6 +254,8 @@ X-Factor: glitter
 
 **Ramos Gin Fizz** _via America's Test Kitchen_
 TKTK
+
+---
 
 ## 17: The Star
 * Radiant stars shine in a cloudless sky serving as a beacon of hope and inspiration.
@@ -242,20 +269,23 @@ TKTK
 * 1/2 cup white rum
 * 1 cup freshly squeezed orange juice
 
+---
 
 ## 18: The Moon
 * The Moon stimulates the creative imagination. It opens the way for bizarre and beautiful thoughts to bubble up from the unconscious, but deep-seated fears and anxieties also arise. These experiences may cause the Fool to feel lost and bewildered.
 * Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error
 > "Reality is merely an illusion, albeit a very persistent one." - Albert Einstein
 
-**Frozen Toasted Coconuct Moonshine**: [Source](https://taylorbradford.com/frozen-toasted-coconut-moonshine/)
-* 6 oz. moonshine (I used Texas Moonshine)
+**Frozen Toasted Coconut Moonshine**: [Source](https://taylorbradford.com/frozen-toasted-coconut-moonshine/)
+* 6 oz. moonshine
 * 2 cups coconut milk
 * Mint Simple Syrup 
 * Juice of 2 limes
-* 2-4 cups of ice (depends on how thick you want the beverage)
-mint leaves, for garnish
+* 2-4 cups of ice
+* mint leaves, for garnish
 * toasted coconut flakes, for garnish
+
+---
 
 
 ## 19: The Sun
@@ -272,6 +302,8 @@ mint leaves, for garnish
 
 X-Factor = spicy!
 
+---
+
 ## XX: Judgement
 * The Sleeping Dead are emerging from crypts or graves, calling back to the Book of Revelation chapter 20, where the sea gives up its dead.
 * judgement, rebirth
@@ -284,7 +316,9 @@ X-Factor = spicy!
 * 3/4 ounce orange liqueur
 * 3/4 ounce lemon juice, freshly squeezed
 
-## 21: The World
+---
+
+## XXI: The World
 * The World represents an ending to a cycle of life, a pause in life before the next big cycle beginning with the fool.
 * Assured success, recompense, voyage, route, emigration, flight, change of place
 > "The end of all our exploring will be to arrive where we started." - TS Eliot
@@ -295,5 +329,7 @@ X-Factor = spicy!
 * 3/4 ounce maraschino liqueur
 * 3/4 ounce lime juice, freshly squeezed
 * Garnish: brandied cherry (optional)
+
+---
 
 
