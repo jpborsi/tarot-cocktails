@@ -23,6 +23,12 @@ X-Factor = add cream/milk, dust with nutmeg
 > “In everything natural there is something marvelous.” — Aristotle
 
 **French 75**
+[Source](https://www.liquor.com/recipes/french-75-2/)
+* 1 ounce gin
+* 1/2 ounce lemon juice, freshly squeezed
+* 1/2 ounce simple syrup
+* 3 ounces Champagne (or other sparkling wine)
+* Garnish: lemon twist
 
 X-Factor = color changing B'lure
 
