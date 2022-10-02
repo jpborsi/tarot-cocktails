@@ -70,8 +70,6 @@ X-Factor = Beer Cocktail!
 * bar spoon of simple syrup
 * garnish: cherry
 
-X-Factor = ??
-
 
 ## V: The High Priest
 * We say goodbye to family and head out into the world to gain formal education, represented by the High Priest.
@@ -85,7 +83,6 @@ X-Factor = ??
 * 2 or 3 dashes Angostura bitters
 * Club soda
 
-X-Factor = ??
 
 ## VI: The Lovers
 * Relationships and choices / Adam and Eve
@@ -99,8 +96,6 @@ X-Factor = ??
 * 1 oz triple sec
 * 1/4 oz lemon juice
 * Garnish lemon twist
-
-X-Factor = ??
 
 
 ## VII: The Chariot
@@ -117,8 +112,6 @@ X-Factor = ??
 * ½ ounce coconut rum
 * 1 ounce heavy cream
 
-X-Factor = layered cocktail
-
 ## VIII: Strength
 * When faced with new challenges, we draw on the quality of Strength. We must develop our courage and resolve to keep going despite setbacks.
 * Power, energy, action, courage, magnanimity
@@ -130,8 +123,6 @@ X-Factor = layered cocktail
 * 0.5 oz lime juice
 * 0.5 oz simple syrup
 * 4 dashes aromatic bitters (Angostura works well)
-
-X-Factor = bold orange color
 
 
 ## IX: The Hermit
@@ -148,7 +139,6 @@ X-Factor = bold orange color
 * 3 dashes lemon bitters
 * 1 dash saline solution(1:1, salt:water)
 
-X-Factor = Taking a white negroni up a notch
 
 ## X: The Wheel of Fortune
 * As an answer to our seeking, we are rewarded with a brief vision of the world's wondrous design - the Wheel of Fortune is a symbol of the mysterious universe whose parts work together in harmony.
@@ -177,8 +167,6 @@ X-Factor: glitter
 * 1 TSP. GÉNÉPY (OR SUBSTITUTE CHARTREUSE)
 * CHILLED CHAMPAGNE
 
-X-Factor = tea cocktail!
-
 
 ## XII: The Hanged Man
 * Taking responsibility for oneself is not always enough to make the world better, sometimes self-sacrifice is necessary. The Hanged Man is a depiction of the Norse god Odin, who suspended himself from a tree in order to gain knowledge.
@@ -192,63 +180,91 @@ X-Factor = tea cocktail!
 * 1 fresh egg (whole)
 * Garnish: grated nutmeg
 
-X-Factor = ??
-
 
 ## XIII: Death
 * At times, inexorable change seems to be crushing us, but eventually we rise up to discover that death need not refer to physical death. It is simply a transition to a new, more fulfilling way of life.
 * End, mortality, destruction, corruption
 > “Life is a great sunrise. I do not see why death should not be an even greater one.” — Vladimir Nobokov
 
-**Spicy Tequila Sunrise**: [Source](https://punchdrink.com/recipes/mezcal-sun-risa/)
-* 3/4 ounce tequila, preferably Cabeza
-* 3/4 ounce mezcal, preferably Montelobos
-* 4 ounces orange juice
-* 2 ounces bitter orange juice
-* 3/4 ounce hibiscus-habanero syrup (see Editor's Note)
-
-X-Factor = spicy!
-
+**Death in the Afternoon** [Source](https://www.liquor.com/recipes/death-in-the-afternoon/)
+* 1 1/2 ounces absinthe
+* 4 1/2 ounces chilled Champagne
+* simple syrup (optional)
 
 ## XIV: Temperance
 * So far on our journey, we've swung wildly back and forth on an emotional pendulum. Now, we must realize the balancing stability of temperance.
 * Economy, moderation, frugality, management, accommodation
 > "If one oversteps the bounds of moderation, the greatest pleasures cease to please." - Epictetus
 
-**Cocktail**: [Source]()
-* Ingredient
+**Revitalizer (NA)**: [Source](https://www.townandcountrymag.com/leisure/drinks/how-to/g785/best-mocktail-recipes/)
+* 9 oz carrot juice
+* 15 oz apple juice
+* 2.25 oz ginger syrup (1:1 ration ginger juice/sugar)
+* .75 oz lime juice
 
-X-Factor = ??
 
 ## 15: The Devil
 * The Devil represents the Fool's involvement in materialism and complacency
 * Ravage, violence, vehemence, extraordinary efforts, force, fatality
-* ???
+> "Don't you know there ain't no devil, it's just god when he's drunk." - Tom Waits
+
+**El Diablo** [Source](https://www.liquor.com/recipes/el-diablo/)
+* 1 1/2 ounces reposado tequila
+* 1/2 ounce creme de cassis
+* 1/2 ounce lime juice, freshly squeezed
+* 3 ounces ginger beer
+* Garnish: lime wedge
 
 
 ## 16: The Tower
-* a burning tower being struck by lightning or fire from the sky, its top section dislodged and crumbling. Two men are depicted in freefall against a field of multicolored balls.
+* How can we escape the Devil? Only by breaking out of the tower: the ego fortress each of us has built around our inner self.
 * Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin
-* ???
+> "Adversity is the first path to truth." - Lord Byron
 
+**Ramos Gin Fizz** _via America's Test Kitchen_
+TKTK
 
 ## 17: The Star
-* Above her head is one large star, representing her core essences, and seven smaller stars, representing the chakras.[
+* Radiant stars shine in a cloudless sky serving as a beacon of hope and inspiration.
 * Hope and bright prospects
-* ???
+> "All human wisdom is summed up in two words; wait and hope." - Alexandre Dumas
+
+**Starfruit Cocktail**: [Source](https://www.marthastewart.com/335269/giovannas-star-fruit-cocktail)
+* 1/2 fresh star fruit, deveined, plus slices for garnish
+* 1/3 cup Grand Marnier
+* 3 cups ice cubes
+* 1/2 cup white rum
+* 1 cup freshly squeezed orange juice
 
 
 ## 18: The Moon
-* A wolf and a domesticated dog howl at the Moon
+* The Moon stimulates the creative imagination. It opens the way for bizarre and beautiful thoughts to bubble up from the unconscious, but deep-seated fears and anxieties also arise. These experiences may cause the Fool to feel lost and bewildered.
 * Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error
-* sea/crawfish
+> "Reality is merely an illusion, albeit a very persistent one." - Albert Einstein
+
+**Frozen Toasted Coconuct Moonshine**: [Source](https://taylorbradford.com/frozen-toasted-coconut-moonshine/)
+* 6 oz. moonshine (I used Texas Moonshine)
+* 2 cups coconut milk
+* Mint Simple Syrup 
+* Juice of 2 limes
+* 2-4 cups of ice (depends on how thick you want the beverage)
+mint leaves, for garnish
+* toasted coconut flakes, for garnish
 
 
 ## 19: The Sun
-* An infant rides a white horse under the anthropomorphized Sun, with sunflowers in the background.
-* Material happiness, fortunate marriage, contentment
-* sunflower
+* The Sun's illumination shines in all the hidden places. It dispels the clouds of confusion and fear. It enlightens, so the Fool both feels and understands the goodness of the world.
+* Material happiness, contentment
+> "Contentment is the only real wealth." - Alfred Nobel
 
+**Spicy Tequila Sunrise**: [Source](https://punchdrink.com/recipes/mezcal-sun-risa/)
+* 3/4 ounce tequila, preferably Cabeza
+* 3/4 ounce mezcal, preferably Montelobos
+* 4 ounces orange juice
+* 2 ounces bitter orange juice
+* 3/4 ounce hibiscus-habanero syrup
+
+X-Factor = spicy!
 
 ## XX: Judgement
 * The Sleeping Dead are emerging from crypts or graves, calling back to the Book of Revelation chapter 20, where the sea gives up its dead.
