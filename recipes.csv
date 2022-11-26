@@ -1,0 +1,23 @@
+﻿#,card,recipe,primary spirit,secondary spirits,mixers,syrups,bitters,garnish,other
+0,Fool,Brave Bull,tequila (blanco),kahlua,,,,lemon,
+1,Magus,French 75,gin,champagne,lemon,simple,,lemon,B'lure
+2,High Priestess,Basil Spritz,gin,"pear, champagne","lemon, sparkling water",,,basil,
+3,Empress,Whiskey Shandy,bourbon,IPA,"grapefruit, lemon",simple,,grapefruit,marjoram
+4,Emperor,Sherry Old Fashioned,bourbon,sherry,,simple,chocolate,cherry,
+5,High Priest,Harvard,cognac,vermouth,club soda,grenadine,angostura,,
+6,Lovers,Between the Sheets,rum (white),"cognac, triple sec",lemon,,,lemon,
+7,Chariot,Black and White,"rum (dark), rum (white)",rum (coconut),heavy cream,simple,,,cocoa powder
+8,Strength,Lion's Tail,bourbon,california spiced liquor,lime,simple,angostura,,
+9,Hermit,Alpine Negroni,gin,"vermouth, suze, genepy, crème de menthe",saline,,lemon,,
+10,Wheel of Fortune,White Lady,gin,triple sec,"lemon, egg white",,,,glitter
+11,Justice,Equali-tea,cognac,"rum, genepy, champagne","lemon, black tea",,,,
+12,Hanged Man,Rum Flip,rum (dark),,"heavy cream, egg",,,nutmeg,sugar
+13,Death,Death in the Afternoon,absinthe,champagne,,simple,,,
+14,Temperance,Revitalizer,NA,,"carrot, apple, lime",ginger,,,
+15,Devil,El Diablo,tequila (reposado),crème de cassis,"lime, ginger beer",,,lime,
+16,Tower,Ramos Gin Fizz,gin,,,,,,
+17,Star,Starfruit,rum (white),grand marnier,"OJ, starfruit",,,starfruit,
+18,Moon,Coconut Moonshine,moonshine,,"coconut milk, lime",mint,,"mint, coconut",
+19,Sun,Tequila Sunrise,"tequila, mexcal",,"OJ, bitter OJ",hibiscus-habanero,,,
+20,Judgement,Corpse Reviver No. 2,gin,"lillet blanc, orange liqueur, absinthe",lemon,,,,
+21,World,Last Word,gin,"chartreuse, maraschino",lime,,,cherry,
